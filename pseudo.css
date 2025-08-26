@@ -1,0 +1,91 @@
+
+td:hover {
+    background-color: #ffdbdb;
+    box-shadow: 0 0 20px 6px #900090;
+    transform: scale(1.1);
+    z-index: 2;
+}
+.celda {
+    padding: 4px;
+    width: 65px;
+    height: 65px;
+    border: 1px solid #000;
+    text-align: center;
+    vertical-align: middle;
+}
+
+.azulclaro {
+    border-color: #4fc3f7;
+    background: #4fc3f7;
+}
+
+.rosado {
+    border-color: #f8bbd0;
+    background: #f8bbd0;
+}
+
+.naranja {
+    border-color: #ffb74d;
+    background: #ffb74d;
+}
+
+.verde {
+    border-color: #a5d6a7;
+    background: #a5d6a7;
+}
+
+.azuloscuro {
+    border-color: #90caf9;
+    background: #90caf9;
+}
+
+.amarillo {
+    border-color: #fff176;
+    background: #fff176;
+}
+
+.celeste {
+    border-color: #80deea;
+    background: #80deea;
+}
+
+.rojo {
+    border-color: #ef9a9a;
+    background: #ef9a9a;
+}
+.verdeagua {
+    border-color: #03bb85;
+    background: #03bb85;
+}
+
+.purpura {
+    border-color: #ce93d8;
+    background:    #ce93d8;
+}
+
+
+.vacio {
+    border-color: #ffffff;
+    background:    #ffffff;
+}
+
+
+.lila {
+    border-color: #d1c4e9;
+    background: #d1c4e9;
+}
+
+.violeta {
+    border-color: #b39ddb;
+    background: #b39ddb;
+}
+
+.gris {
+    border-color: #e0e0e0;
+    background: #e0e0e0;
+}
+
+.sintetico {
+    border-color: #ffccbc;
+    background: #ffccbc;
+}
